@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Mon, 20 Mar 2023 02:37:05 GMT
+-->
+<resources>
+  <string name="foundations_font_size_g">4rem</string>
+  <string name="foundations_font_size_xxxl">3.5rem</string>
+  <string name="foundations_font_size_xxl">3rem</string>
+  <string name="foundations_font_size_xl">2.25rem</string>
+  <string name="foundations_font_size_lg">1.75rem</string>
+  <string name="foundations_font_size_md">1.25rem</string>
+  <string name="foundations_font_size_sm">1rem</string>
+  <string name="foundations_font_size_xs">0.75rem</string>
+  
+</resources>

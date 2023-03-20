@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Mon, 20 Mar 2023 02:37:05 GMT
+-->
+<resources>
+  <string name="foundations_size_24">24px</string>
+  <string name="foundations_size_32">32px</string>
+  <string name="foundations_size_40">40px</string>
+  <string name="foundations_size_48">48px</string>
+  <string name="foundations_size_56">56px</string>
+  <string name="foundations_size_64">64px</string>
+  <string name="foundations_size_80">80px</string>
+  <string name="foundations_size_160">160px</string>
+  <string name="foundations_size_240">240px</string>
+  <string name="component_input_h_normal">$size-40</string>
+  <string name="component_input_h_medium">$size-56</string>
+  <string name="component_input_h_large">$size-64</string>
+  <string name="component_icon_md">$size-24</string>
+  <string name="component_icon_lg">$size-32</string>
+  <string name="component_icon_xl">$size-48</string>
+  <string name="component_avatar_sm">$size-32</string>
+  <string name="component_avatar_md">$size-48</string>
+  <string name="component_avatar_lg">$size-64</string>
+  <string name="component_button_h_normal">$size-40</string>
+  <string name="component_button_h_medium">$size-56</string>
+  <string name="component_button_h_large">$size-56</string>
+  <string name="component_illustration_small">$size-80</string>
+  <string name="component_illustration_medium">$size-160</string>
+  <string name="component_illustration_large">$size-240</string>
+  
+</resources>
